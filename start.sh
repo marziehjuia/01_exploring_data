@@ -1,2 +1,6 @@
 #!/bin/bash
-voila 01_exploring_data.ipynb --port=$PORT --no-browser --ip=0.0.0.0
+jupyter server --ip=0.0.0.0 --port=$PORT \
+  --ServerApp.root_dir="$(pwd)" \
+  --ServerApp.default_url="/voila/render/01_exploring_data.ipynb" \
+  --ServerApp.allow_origin='*' \
+  --ServerApp.token=''
