@@ -1,8 +1,9 @@
 voila
 gunicorn
+gevent
 notebook
-ipywidgets
 jupyter-server
+ipywidgets
 pandas
 matplotlib
 scipy
