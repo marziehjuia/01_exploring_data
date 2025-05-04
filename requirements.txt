@@ -1,4 +1,4 @@
-voila
+voila>=0.3.5
 notebook
 ipywidgets
 pandas
