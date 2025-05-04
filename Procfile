@@ -1,0 +1,1 @@
+web: voila --no-browser --port=$PORT 01_exploring_data.ipynb
