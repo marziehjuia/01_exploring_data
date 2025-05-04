@@ -1,6 +1,8 @@
-voila>=0.3.5
+voila
+gunicorn
 notebook
 ipywidgets
+jupyter-server
 pandas
 matplotlib
 scipy
