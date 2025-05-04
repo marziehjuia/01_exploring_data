@@ -2,7 +2,6 @@ voila
 notebook
 ipywidgets
 pandas
-matplotlib.pyplot
-math
+matplotlib
+scipy
 fbm
-scipy.stats 
