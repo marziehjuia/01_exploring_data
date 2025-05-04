@@ -1,4 +1,8 @@
 voila
 notebook
 ipywidgets
-pandas 
+pandas
+matplotlib.pyplot
+math
+fbm
+scipy.stats 
